@@ -1,5 +1,5 @@
-# Patika-Bootcamp-Hafta-11
-Spring Framework and Introduction to  Spring Boot
+# Patika-Bootcamp-Week-11
+Spring Frameworks and Introduction to Spring Boot
 
 # Java Spring Framework Nedir?
 Java Spring Framework, Java programlama dilinde yazılmış olan ve özellikle büyük ölçekli, modüler ve ölçeklenebilir uygulamalar geliştirmek için kullanılan bir framework'tür. Spring Framework, iş mantığı, veritabanı etkileşimi, web geliştirme, güvenlik ve daha birçok alanda bir dizi araç ve modül sunar. Bu, geliştiricilere daha kolay ve hızlı bir şekilde uygulama geliştirmelerine olanak tanır.
