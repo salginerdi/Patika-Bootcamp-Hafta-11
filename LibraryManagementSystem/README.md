@@ -17,19 +17,19 @@ Bu projenin amacı, kütüphane envanterini izlemek ve yönetmek için bir platf
 Proje, PostgreSQL veritabanını kullanır ve aşağıdaki tabloları içerir:
 
 - `books`: Kitapların bilgilerini saklar.
-- ![books](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/b4e19deb-7221-4e35-bffc-cb6fab6bc776)
+ ![books](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/b4e19deb-7221-4e35-bffc-cb6fab6bc776)
 
 - `authors`: Yazarların bilgilerini saklar.
-- ![authors](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/32ef6f0f-4567-4f62-b099-d7a16b0d81a3)
+ ![authors](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/32ef6f0f-4567-4f62-b099-d7a16b0d81a3)
 
 - `categories`: Kitap kategorilerini saklar.
-- ![book_category](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/8f459a83-d0a4-492b-b788-2b096c69b0cb)
+ ![book_category](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/8f459a83-d0a4-492b-b788-2b096c69b0cb)
 
 - `publishers`: Yayınevlerinin bilgilerini saklar.
-- ![publishers](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/7236a67c-bce1-4eda-b319-8927bda48c74)
+ ![publishers](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/7236a67c-bce1-4eda-b319-8927bda48c74)
 
 - `book_borrowings`: Kitap ödünç alma işlemlerini saklar.
-- ![book_borrowing](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/98a7a61e-00e7-4010-92be-e100762d3550)
+ ![book_borrowing](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/98a7a61e-00e7-4010-92be-e100762d3550)
 
 
 Her tablo, ilişkisel olarak bağlıdır ve gerekli alanları içerir.
@@ -71,19 +71,19 @@ The aim of this project is to provide a platform for tracking and managing the l
 The project uses a PostgreSQL database and includes the following tables:
 
 - `books`: Stores information about books.
-- ![books](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/b4e19deb-7221-4e35-bffc-cb6fab6bc776)
+ ![books](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/b4e19deb-7221-4e35-bffc-cb6fab6bc776)
 
 - `authors`: Stores information about authors.
-- ![authors](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/32ef6f0f-4567-4f62-b099-d7a16b0d81a3)
+ ![authors](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/32ef6f0f-4567-4f62-b099-d7a16b0d81a3)
 
 - `categories`: Stores book categories.
-- ![book_category](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/8f459a83-d0a4-492b-b788-2b096c69b0cb)
+ ![book_category](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/8f459a83-d0a4-492b-b788-2b096c69b0cb)
 
 - `publishers`: Stores information about publishers.
-- ![publishers](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/7236a67c-bce1-4eda-b319-8927bda48c74)
+ ![publishers](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/7236a67c-bce1-4eda-b319-8927bda48c74)
 
 - `book_borrowings`: Stores book borrowing transactions.
-- ![book_borrowing](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/98a7a61e-00e7-4010-92be-e100762d3550)
+ ![book_borrowing](https://github.com/salginerdi/Patika-Bootcamp-Hafta-11/assets/110611268/98a7a61e-00e7-4010-92be-e100762d3550)
 
 Each table is related and contains necessary fields.
 
